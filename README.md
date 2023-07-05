@@ -4,7 +4,7 @@ This is a simple HTML document that represents a curriculum vitae (CV) or resume
 
 Bio
 
-The bio section contains a brief introduction of the person. It provides information about my background, upbringing, education, and passion for music, literature, and technology.
+The bio section contains a brief introduction of myself. It provides information about my background, upbringing, education, and passion for music, literature, and technology.
 
 Contact Details
 
